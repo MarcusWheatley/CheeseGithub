@@ -20,6 +20,7 @@ public class CheeseScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-	
+	//some normal development code
+		int x;
 	}
 }
