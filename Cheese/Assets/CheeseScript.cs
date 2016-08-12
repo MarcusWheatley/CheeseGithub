@@ -5,6 +5,7 @@ public class CheeseScript : MonoBehaviour {
 
 	NavMesh nv;
 
+	cheser bool;
 	// Use this for initialization
 	void Start () {
 <<<<<<< HEAD
